@@ -1,0 +1,11 @@
+{
+  "name": "level-subdomain",
+  "version": "0.1.0",
+  "description": "Augment a sublevel to treat its contents as a collection of models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT"
+}
